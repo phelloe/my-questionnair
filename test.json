@@ -1,0 +1,29 @@
+{
+  "title": "Mein Fragebogen",
+  "questions": [
+    {
+      "title": "Seite Nr. 1",
+      "text": "Wie lautet die erste Frage?",
+      "type": "radio",
+      "options": [
+        "Erste Antwort",
+        "Zweite Antwort"
+      ]
+    },
+    {
+      "title": "Seite Nr. 2",
+      "text": "Wie lautet die zweite Frage?",
+      "type": "checkbox",
+      "options": [
+        "Erste Option",
+        "Zweite Option",
+        "Dritte Option"
+      ]
+    },
+    {
+      "title": "Seite Nr. 3",
+      "text": "Freitextfeld?",
+      "type": "text"
+    }
+  ]
+}
