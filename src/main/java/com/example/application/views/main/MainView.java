@@ -20,9 +20,7 @@ import com.vaadin.flow.router.Route;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @PageTitle("Main")
 @Route(value = "")
